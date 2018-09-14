@@ -1,6 +1,6 @@
 def my_select(collection)
  selection = []
- collection.each do || 
+ collection.each do |collect| 
    selection << 
 end
 
